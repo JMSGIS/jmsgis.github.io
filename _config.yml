@@ -50,11 +50,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jmatosuquet.bizz@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: 
+  email: jmatosuquet.bizz@gmail.com
+# rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# facebook: 
   github: JMSGIS
-  twitter: 
+# twitter: 
 # patreon: 
 #  youtube: "@daattali"
 #  whatsapp: 15551212
@@ -260,7 +260,7 @@ date_format: "%d/%m %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Madrid"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
