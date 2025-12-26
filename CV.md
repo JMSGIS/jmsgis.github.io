@@ -48,7 +48,7 @@ Strong focus on open-source software, reproducible workflows and geospatial data
 UNIGIS – University of Girona Foundation  
 *2023 – 2025*
 
-- Master’s thesis: *Multi-criteria analysis for optimal location of stormwater retention basins in Calonge, Vall-llobrega and Palamós.*
+- Master’s thesis: *Multi-criteria analysis for the optimal location of water retention basins in Calonge, Vall-llobrega and Palamós.*
 
 **Bachelor’s Degree in Geography, Spatial Planning and Environmental Management**  
 University of Girona  
@@ -58,7 +58,7 @@ University of Girona
 - Bachelor’s thesis: Nautical pressures: analysis of recreational anchoring and its impact on the Costa Brava.
 ---
 
-## Technical Skills
+## Technical Computer Skills
 
 - **GIS & Spatial Analysis**: QGIS, GRASS GIS, GeoDa  
 - **Programming & Data**: Python, R, SQL, PostGIS  
@@ -66,7 +66,7 @@ University of Girona
 - **Operating Systems**: Linux (Mint, Kubuntu, OSGeoLive), Windows  
 - **AI**: Setup and deployment of local LLMs (Ollama, Kobold) 
 - **Other**: Virtualization (VirtualBox), open-source GIS workflows
-- 
+  
 ---
 
 ## Languages
