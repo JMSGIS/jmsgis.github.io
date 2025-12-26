@@ -64,8 +64,9 @@ University of Girona
 - **Programming & Data**: Python, R, SQL, PostGIS  
 - **Databases**: PostgreSQL, pgAdmin  
 - **Operating Systems**: Linux (Mint, Kubuntu, OSGeoLive), Windows  
+- **AI**: Setup and deployment of local LLMs (Ollama, Kobold) 
 - **Other**: Virtualization (VirtualBox), open-source GIS workflows
-
+- 
 ---
 
 ## Languages
