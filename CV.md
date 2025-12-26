@@ -56,6 +56,7 @@ University of Girona
 
 - Erasmus+ Programme: *SavingScapes*, Joensuu, Finland (2021)
 - Bachelor’s thesis: Nautical pressures: analysis of recreational anchoring and its impact on the Costa Brava.
+  
 ---
 
 ## Technical Computer Skills
