@@ -54,7 +54,7 @@ UNIGIS – University of Girona Foundation
 University of Girona  
 *2019 – 2023*
 
-- Erasmus+ Programme: *SavingScapes*, Joensuu, Finland (2021)  
+- Erasmus+ Programme: *SavingScapes*, Joensuu, Finland (2021)
 - Bachelor’s thesis: *Nautical pressures: analysis of recreational anchoring and its impact on the Costa Brava.*
 ---
 
