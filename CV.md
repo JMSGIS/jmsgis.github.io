@@ -1,7 +1,6 @@
 layout: page
 title: Curriculum Vitae
 subtitle: GIS Analyst & Geospatial Data Specialist
-permalink: /cv/
 ---
 ## Profile
 
