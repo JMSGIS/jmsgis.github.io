@@ -19,6 +19,7 @@ author: Jaume Mató
 ###############################################
 
 navbar-links:
+  CV: "CV"
   About Me: "aboutme"
   Projects: "projects"
   Resources:
