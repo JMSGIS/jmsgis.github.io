@@ -10,6 +10,9 @@ author: JMS
 ---
 
 Post atempt 1
+
 Creating my own repository
+
 Finding a template from which to fork
+
 Customizing the contents
