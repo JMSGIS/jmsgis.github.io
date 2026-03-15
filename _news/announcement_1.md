@@ -7,4 +7,4 @@ search: true
 published: true
 ---
 
-The entirety os this github page is a WIP until further notice
+The entirety of this github page is a WIP until further notice.
