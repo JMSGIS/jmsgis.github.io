@@ -3,7 +3,7 @@ layout: page
 title: news
 permalink: /news/
 search: true
-published: false
+published: true
 ---
 
 {% include news.liquid %}
