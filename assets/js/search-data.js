@@ -433,8 +433,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-the-entirety-os-this-github-page-is-a-wip-until-further-notice",
-          title: 'The entirety os this github page is a WIP until further notice',
+            },},{id: "news-the-entirety-of-this-github-page-is-a-wip-until-further-notice",
+          title: 'The entirety of this github page is a WIP until further notice.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
